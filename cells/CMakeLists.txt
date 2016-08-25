@@ -5,6 +5,7 @@ ectomodule(base DESTINATION ecto_image_pipeline
    PinholeModelLoader.cpp
    StereoModelLoader.cpp
    Latch.cpp
+   CvRectifier.cpp
    Rectifier.cpp
    DepthRegister.cpp
    RescaleRegisteredDepth.cpp

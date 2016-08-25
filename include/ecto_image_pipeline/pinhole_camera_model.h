@@ -26,7 +26,7 @@ class PinholeCameraModel
 {
 public:
   EIGEN_MAKE_ALIGNED_OPERATOR_NEW // needed for 16B alignment
-    
+
   PinholeCameraModel();
 
   /**
